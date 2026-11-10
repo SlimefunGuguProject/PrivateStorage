@@ -9,17 +9,7 @@ PrivateStorage 是一个 Slimefun4 附属插件。
 
 ## 下载 PrivateStorage
 
-你可以在这里下载PrivateStorage: [下载PrivateStorage](https://builds.guizhanss.net/ybw0014/PrivateStorage-CN/master)
-
-<p align="center">
-  <a href="https://github.com/ybw0014/PrivateStorage-CN/actions/workflows/maven.yml">
-    <img src="https://github.com/ybw0014/PrivateStorage-CN/actions/workflows/maven.yml/badge.svg" alt="Java CI"/>
-  </a>
-
-  <a href="https://builds.guizhanss.net/ybw0014/PrivateStorage-CN/master">
-    <img src="https://builds.guizhanss.net/f/ybw0014/PrivateStorage-CN/master/badge.svg" alt="Build status"/>
-  </a>
-</p>
+[下载 PrivateStorage](https://resources.guizhanss.com/plugin/PrivateStorage)
 
 ## Discord
 
